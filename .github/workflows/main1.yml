@@ -14,4 +14,4 @@ jobs:
         server: ftp.dhruboarif.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /github.dhruboarif.com
+        server-dir: /github.dhruboarif.com/
